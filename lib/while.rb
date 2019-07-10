@@ -8,6 +8,8 @@ def using_while
     puts "Wingardium Leviosa"
   end
   
+  puts levitation_force
+  
 end
 
 using_while
